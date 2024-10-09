@@ -1,5 +1,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/david11yf29)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 <!--
 **david11yf29/david11yf29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
