@@ -1,5 +1,3 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/david11yf29)
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/david11yf29?ext=activity)
 
 <!--
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Leetcode: ![Leetcode Stats](https://leetcard.jacoblin.cool/david11yf29)
 -->
